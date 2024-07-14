@@ -67,7 +67,7 @@
   
 </p>
 
-<img src="https://github.com/user-attachments/assets/2b71f6f0-359b-4546-ba65-26c705c8b8a1" alt="CURIOSIDADES" width="40">  <img src="https://github.com/user-attachments/assets/c93c9397-9dae-4495-ac25-bed19a62a95f" width="150">
+<img src="https://github.com/user-attachments/assets/2b71f6f0-359b-4546-ba65-26c705c8b8a1" alt="CURIOSIDADES" width="40">  <img src="https://github.com/user-attachments/assets/c93c9397-9dae-4495-ac25-bed19a62a95f" width="150">  
 - <img src="https://github.com/user-attachments/assets/00af5d03-98ea-4fff-8d5a-ad3c1c8f2e5c" width="50"> [POO](https://github.com/Ttorricelli/POO)
 
   
