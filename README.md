@@ -68,8 +68,10 @@
 </p>
 
 <img src="https://github.com/user-attachments/assets/2b71f6f0-359b-4546-ba65-26c705c8b8a1" alt="CURIOSIDADES" width="40">  <img src="https://github.com/user-attachments/assets/c93c9397-9dae-4495-ac25-bed19a62a95f" width="150">  
-- <img src="https://github.com/user-attachments/assets/00af5d03-98ea-4fff-8d5a-ad3c1c8f2e5c" width="50"> [POO](https://github.com/Ttorricelli/POO)
-
+- <img src="https://github.com/user-attachments/assets/00af5d03-98ea-4fff-8d5a-ad3c1c8f2e5c" width="50"> [I-Semestre](https://github.com/Ttorricelli/I-Semestre)
+- <img src="https://github.com/user-attachments/assets/6c25419e-69d0-46f6-a6ea-f417492babb8" width="50"> [II-Semestre](https://github.com/Ttorricelli/II-Semestre)
+- <img src="https://github.com/user-attachments/assets/e0dd70ce-19c2-414f-aa8e-794c6a538f1e" width="50"> [III-Semestre](https://github.com/Ttorricelli/III-Semestre)
+- <img src="https://github.com/user-attachments/assets/db8970b5-1898-4b49-a821-ddb5f55a1bed" width="50"> [IV-Semestre](https://github.com/Ttorricelli/IV-Semestre)
   
 ![charmander](https://github.com/user-attachments/assets/2d260da5-3bcc-4934-87ef-403599e1d843) <img src="https://github.com/user-attachments/assets/5201fc2a-887e-4841-a2c2-e08ebffd3cb6" width="180">
 
