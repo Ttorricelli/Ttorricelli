@@ -76,7 +76,7 @@
 ![charmander](https://github.com/user-attachments/assets/2d260da5-3bcc-4934-87ef-403599e1d843) <img src="https://github.com/user-attachments/assets/5201fc2a-887e-4841-a2c2-e08ebffd3cb6" width="180">
 
  
- - <img src="https://github.com/user-attachments/assets/e5770240-5838-40e2-af02-6edd1478f3a7" width="30"> [???](https://github.com/Ttorricelli/POO)
+ - <img src="https://github.com/user-attachments/assets/e5770240-5838-40e2-af02-6edd1478f3a7" width="30"> [Sobre mim](https://torricelli.straw.page)
 
   
 ![squirtle](https://github.com/user-attachments/assets/826e186e-4950-4a43-955c-35a45c9d40d1)  <img src="https://github.com/user-attachments/assets/de571d44-2958-41e1-b45b-b78c923d0dec" width="110">
